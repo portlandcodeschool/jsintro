@@ -1,0 +1,14 @@
+{
+  "name": "jsintro",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Manning",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "workshopper": "~0.3.3"
+  }
+}
